@@ -22,20 +22,6 @@ B.Tech ECE · NIT Agartala · Building at the intersection of AI agents and fina
 
 ---
 
-### Open source
-
-GSoC 2026 applicant — PostgreSQL `pg_ai_query` (MCP-based AI query accuracy).  
-First contribution: Google ADK documentation merged into [`andrewyng/context-hub`](https://github.com/andrewyng/context-hub) via PR #97.
-
----
-
-### Writing
-
-I write about agentic systems, AI tooling, and Indian markets on [LinkedIn](https://www.linkedin.com/in/neelakandannc).  
-Research published under **NeelakandanNC**.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeelakandanNC&show_icons=true&hide_border=true&count_private=true&theme=default" height="130" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelakandanNC&layout=compact&hide_border=true&theme=default" height="130" alt="Top Languages" />
