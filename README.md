@@ -1,28 +1,46 @@
-# NeelakandanNC
+### Hi, I'm Neelakandan
 
-B.Tech ECE · NIT Agartala · Building at the intersection of AI agents and finance.
+ECE undergrad at NIT Agartala · building AI agents that actually do things · interested in where finance meets intelligent systems
 
 ---
 
-### What I'm working on
+### Projects
 
-**[ZeraPortfolio](https://github.com/NeelakandanNC/ZeraPortfolio)** — Production-grade multi-agent Indian equity portfolio advisor. Google ADK orchestration, Zerodha MCP, Gemini 2.5 Pro, real-time fundamental + geopolitical signal synthesis. Bloomberg-dark UI built on FastAPI + React.
+**ZeraPortfolio** &nbsp;·&nbsp; [repo](https://github.com/NeelakandanNC/ZeraPortfolio)  
+Multi-agent Indian equity portfolio advisor. Orchestrated with Google ADK, powered by Gemini 2.5 Pro, connected to live Zerodha data via MCP. Fuses fundamentals from Screener.in with geopolitical signals. Bloomberg-dark UI on FastAPI + React 18.
 
-**[TriageAI](https://github.com/NeelakandanNC/TriageAI)** — AI-powered clinical decision support for junior doctors in rural settings. XGBoost classifier trained on 20k real clinical records, Google ADK multi-agent backend. NSCIF 2026 finalist (Ashoka + Connecting Dreams Foundation).
+**TriageAI** &nbsp;·&nbsp; [repo](https://github.com/NeelakandanNC/TriageAI)  
+Clinical decision support for junior doctors in rural settings. XGBoost trained on 20k real patient records, Google ADK multi-agent backend, React frontend. NSCIF 2026 finalist — Ashoka University × Connecting Dreams Foundation.
 
 ---
 
 ### Stack
 
-**Languages** — Python, JavaScript, TypeScript  
-**Frameworks** — FastAPI, React 18, Vite, TailwindCSS  
-**AI / ML** — Google ADK, Gemini, MCP, LangChain, XGBoost, LightGBM, CatBoost, QLoRA  
-**Infra** — Neon.db, APScheduler, WeasyPrint, Twilio, Ollama (local)  
-**Finance** — Zerodha MCP, Screener.in, Indian equity market data pipelines
+```
+Languages    Python · JavaScript · TypeScript
+AI / Agents  Google ADK · Gemini · MCP · LangChain · Ollama
+ML           XGBoost · LightGBM · CatBoost · QLoRA (Gemma 2B)
+Web          FastAPI · React 18 · Vite · TailwindCSS
+Data / Infra Neon.db · APScheduler · Zerodha API · Screener.in
+```
+
+---
+
+### Open source
+
+- GSoC 2026 applicant — PostgreSQL `pg_ai_query` · MCP-based AI query accuracy improvements
+- PR [#97](https://github.com/andrewyng/context-hub) merged into `andrewyng/context-hub` — Google ADK multi-agent documentation
+
+---
+
+### Writing
+
+Notes on agentic systems, AI tooling, and Indian markets → [LinkedIn](https://linkedin.com/in/neelakandannc)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeelakandanNC&show_icons=true&hide_border=true&count_private=true&theme=default" height="130" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelakandanNC&layout=compact&hide_border=true&theme=default" height="130" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeelakandanNC&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="120" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelakandanNC&layout=compact&hide_border=true&theme=default" height="120" />
 </p>
