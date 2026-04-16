@@ -26,19 +26,6 @@ Data / Infra Neon.db · APScheduler · Zerodha API · Screener.in
 
 ---
 
-### Open source
-
-- GSoC 2026 applicant — PostgreSQL `pg_ai_query` · MCP-based AI query accuracy improvements
-- PR [#97](https://github.com/andrewyng/context-hub) merged into `andrewyng/context-hub` — Google ADK multi-agent documentation
-
----
-
-### Writing
-
-Notes on agentic systems, AI tooling, and Indian markets → [LinkedIn](https://linkedin.com/in/neelakandannc)
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeelakandanNC&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="120" />
   &nbsp;
