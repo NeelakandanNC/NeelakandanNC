@@ -1,9 +1,6 @@
 ### Hi, I'm Neelakandan
 
-ECE undergrad at NIT Agartala · building AI agents that actually ship · interested in where finance meets intelligent systems.
-
-*Currently:* shipping a daily-reporting multi-agent portfolio advisor, prepping for AI-infra internships (GPU scheduling, inference, quantization), and looking for a Summer 2026 role.
-
+ECE undergrad at NIT Agartala · building AI agents that actually ship ·
 ---
 
 ### Recent
