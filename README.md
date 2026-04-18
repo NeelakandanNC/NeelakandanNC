@@ -1,6 +1,7 @@
 ### Hi, I'm Neelakandan
 
 ECE undergrad at NIT Agartala · building AI agents that actually ship ·
+
 ---
 
 ### Recent
@@ -14,7 +15,7 @@ ECE undergrad at NIT Agartala · building AI agents that actually ship ·
 ### Projects
 
 **[ZeraPortfolio Advisor](https://github.com/NeelakandanNC/ZeraPortfolio)** — Post-market intelligence for your Zerodha portfolio  
-A swarm of 4 Gemini agents (geopolitical · fundamental · risk · synthesis) orchestrated via **Google ADK** and `asyncio.TaskGroup` fan-out. Pulls live holdings from Zerodha Kite, fundamentals from Screener.in, and geopolitical signals from a World Monitor sidecar. Produces a Bloomberg-dark daily report, renders HTML → PDF via WeasyPrint, delivers to WhatsApp via Twilio. `FastAPI · React 18 · Neon Postgres · APScheduler`
+A swarm of 4 Gemini agents (geopolitical · fundamental · risk · synthesis) orchestrated via **Google ADK** and `asyncio.TaskGroup` fan-out. Pulls live holdings from Zerodha Kite, fundamentals from Screener.in, geopolitical signals from a World Monitor sidecar. Produces a Bloomberg-dark daily report, renders HTML → PDF via WeasyPrint, delivers to WhatsApp via Twilio. `FastAPI · React 18 · Neon Postgres · APScheduler`
 
 **[Ydhya / TriageAI](https://github.com/NeelakandanNC/TriageAI)** — Clinical decision support for rural junior doctors  
 XGBoost classifier trained on a **real 20,000-row clinical dataset** — not synthetic, not a demo. Google ADK multi-agent backend analyzes vitals + symptoms + co-morbidities, flags complications with clinical rationale, warns at resource thresholds, and routes escalations to the right specialist. Validated and iterated with practicing doctors during the NSCIF finals.
@@ -28,11 +29,14 @@ FastAPI + Pinecone vector store + GPT-4o retrieval, Streamlit frontend, Docker-p
 ---
 
 ### Stack
+
+<pre>
 Languages      Python · JavaScript · TypeScript · C++
 AI / Agents    Google ADK · Gemini · MCP · LangChain · Ollama
 ML             XGBoost · LightGBM · CatBoost · QLoRA (Gemma 2B) · Scikit-learn
 Web            FastAPI · React 18 · Vite · TailwindCSS
 Data / Infra   PostgreSQL (Neon) · Pinecone · Docker · APScheduler · Twilio · Zerodha Kite
+</pre>
 
 ---
 
