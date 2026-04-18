@@ -40,10 +40,6 @@ Data / Infra   PostgreSQL (Neon) · Pinecone · Docker · APScheduler · Twilio 
 
 ---
 
-### Reach out
-
-📫 neelakandannithin@gmail.com · [LinkedIn](https://www.linkedin.com/in/neelakandan-nc) · +91-8778126915
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeelakandanNC&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="120" />
   &nbsp;
